@@ -1,0 +1,37 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A0C10"/>
+      <stop offset="1" stop-color="#151922"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="110" y1="70" x2="650" y2="270" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F0D28A"/>
+      <stop offset="0.55" stop-color="#C9A85D"/>
+      <stop offset="1" stop-color="#8D6B2F"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#FFFFFF" stroke-opacity=".035"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#g)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+
+  <circle cx="1030" cy="92" r="150" fill="#C9A85D" fill-opacity=".055"/>
+  <circle cx="1110" cy="290" r="210" fill="#C9A85D" fill-opacity=".035"/>
+
+  <rect x="78" y="70" width="6" height="218" rx="3" fill="url(#gold)"/>
+  <text x="112" y="126" fill="#A9B0BC" font-size="18" font-family="Arial, Helvetica, sans-serif" letter-spacing="5">DIGITAL SYSTEMS · WEB ENGINEERING</text>
+  <text x="108" y="195" fill="white" font-size="60" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="1">DIYAN AZMOON</text>
+  <text x="112" y="246" fill="url(#gold)" font-size="26" font-family="Arial, Helvetica, sans-serif" letter-spacing="1.5">BUILD CLEAN · BUILD USEFUL · SHIP PROPERLY</text>
+
+  <g transform="translate(970 182)" filter="url(#glow)">
+    <path d="M0-58L50-29V29L0 58L-50 29V-29Z" stroke="#C9A85D" stroke-width="3.5"/>
+    <path d="M-18-24H7C29-24 38-10 38 7C38 25 25 36 6 36H-18V-24Z" fill="none" stroke="#F0D28A" stroke-width="5"/>
+    <path d="M-18-24V36" stroke="#F0D28A" stroke-width="5"/>
+  </g>
+</svg>
