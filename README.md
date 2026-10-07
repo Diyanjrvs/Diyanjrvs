@@ -1,94 +1,73 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Diyan Azmoon — Digital Systems · Web Engineering" width="100%" />
+</p>
 
-# DIYAN AZMOON
+<p align="center">
+  I build <b>production-ready digital systems</b> for real businesses — from premium multilingual websites to secure workflows, automation and deployment systems.
+</p>
 
-### Digital Systems · Web Engineering · Product & Business Technology
-
-I build **production-ready digital systems** for real businesses —  
-from premium multilingual websites to secure workflows, automation and internal tools.
-
-<br/>
-
-[![PFOMID](https://img.shields.io/badge/POOYA_FELEZ_OMID-Industrial_Digital_Platform-C8A45D?style=for-the-badge&labelColor=111318)](https://pfomid.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Diyanjrvs-181717?style=for-the-badge&logo=github)](https://github.com/Diyanjrvs)
-
-</div>
+<p align="center">
+  <a href="https://pfomid.com"><img src="https://img.shields.io/badge/PFOMID-LIVE%20PROJECT-C9A85D?style=for-the-badge&labelColor=0D1117" /></a>
+  <a href="https://github.com/Diyanjrvs/pfomid_website"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github" /></a>
+</p>
 
 ---
 
-## Selected Work
+## Selected Project
 
 ### POOYA FELEZ OMID
 **Industrial supply · International trade · Digital infrastructure**
 
-Building and maintaining the company's digital platform across web, operations and business workflows.
+A production website and operational platform built around real company workflows.
 
-- multilingual corporate platform — **FA / EN / AR / KU**
-- responsive product and catalog experiences
+- FA / EN / AR / KU multilingual architecture
+- premium responsive product & catalog experience
 - RFQ, vendor and supplier workflows
-- secure server-side form handling
-- SEO, deployment and production operations
-- Git-based versioning and release workflow
+- secure PHP form handling and anti-abuse controls
+- SEO, deployment and release operations
+- Git-based versioning and maintainable production structure
 
-**Repository** → [`pfomid_website`](https://github.com/Diyanjrvs/pfomid_website)  
-**Production** → [`pfomid.com`](https://pfomid.com/)
-
----
-
-## What I Work With
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-111318?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111318?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111318?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-111318?style=for-the-badge&logo=php&logoColor=777BB4)
-![TypeScript](https://img.shields.io/badge/TypeScript-111318?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-111318?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-111318?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Git](https://img.shields.io/badge/Git-111318?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111318?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![cPanel](https://img.shields.io/badge/cPanel-111318?style=for-the-badge&logo=cpanel&logoColor=FF6C2C)
-
-</div>
+**Live:** [pfomid.com](https://pfomid.com)  
+**Repo:** [Diyanjrvs/pfomid_website](https://github.com/Diyanjrvs/pfomid_website)
 
 ---
 
-## Current Focus
+## Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,tailwind,git,github,vscode&perline=10" />
+</p>
+
+---
+
+## What I Care About
 
 ```text
-01  Production web architecture
-02  Business workflow automation
-03  Secure form & data pipelines
-04  Multilingual digital products
-05  Deployment, version control & release systems
-06  Premium responsive UI/UX
+01  Strong visual systems
+02  Clean and maintainable structure
+03  Responsive behavior across every device
+04  Secure production workflows
+05  Automation that saves real business time
+06  Shipping complete work — not half-finished concepts
 ```
 
 ---
 
-## Engineering Principles
+## Currently Building
 
-> **Clean structure. Strong visual systems. Real business value. Reliable production delivery.**
-
-I prefer systems that are:
-- clear to maintain
-- secure by default
-- responsive across devices
-- intentionally designed
-- practical in day-to-day business use
+- production web architecture
+- business workflow automation
+- multilingual digital products
+- secure form & data pipelines
+- version control and deployment systems
+- premium responsive interfaces
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Diyanjrvs&theme=dark&hide_border=true&background=0D1117&ring=C9A85D&fire=C9A85D&currStreakLabel=C9A85D" />
+</p>
 
-### GitHub
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Diyanjrvs&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c8a45d&text_color=c9d1d9&icon_color=c8a45d" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyanjrvs&layout=compact&hide_border=true&bg_color=0d1117&title_color=c8a45d&text_color=c9d1d9" />
-
-<br/><br/>
-
-<sub>Building digital infrastructure for real-world businesses.</sub>
-
-</div>
+<p align="center">
+  <sub>Building useful systems for real-world businesses.</sub>
+</p>
